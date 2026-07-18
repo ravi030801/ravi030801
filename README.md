@@ -17,11 +17,12 @@
 ## 📊 My GitHub Stats
 
 <div align="center">
-<img src="https://ghchart.rshah.org/ravi030801" alt="GitHub Contributions Chart"/>
+<img src="https://streak-stats.demolab.com?user=ravi030801&theme=radical&hide_border=true"/>
 </div>
 
 <div align="center">
-<img src="https://streak-stats.demolab.com?user=ravi030801&theme=radical&hide_border=true"/>
+<img src="https://img.shields.io/github/followers/ravi030801?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/github/stars/ravi030801?style=for-the-badge&logo=github"/>
 </div>
 
 
@@ -30,13 +31,13 @@
 ### Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=c,cpp,html,css,js" />
+<img src="https://skillicons.dev/icons?i=c,cpp,html,css,js,typescript" />
 </p>
 
 ### Frontend
 
 <p>
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,sass" />
+<img src="https://skillicons.dev/icons?i=react,tailwind" />
 </p>
 
 ### Backend
@@ -54,7 +55,7 @@
 ### Tools & Technologies
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,nginx" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode" />
 </p>
 
 
@@ -71,19 +72,26 @@
 
 <div align="center">
 
-<a href="https://github.com/ravi030801">
-<img src="https://skillicons.dev/icons?i=github"/>
-</a>
+<table>
+<tr>
+<td align="center">
+  <a href="https://linkedin.com/in/ravi-ranjan-kumar-996ba4184">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+</td>
 
-<a href="https://linkedin.com/in/YOUR-LINKEDIN">
-<img src="https://skillicons.dev/icons?i=linkedin"/>
-</a>
+<td width="40"></td>
 
-<a href="mailto:raviranjan030801@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail"/>
-</a>
+<td align="center">
+  <a href="mailto:raviranjan030801@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" />
+  </a>
+</td>
+</tr>
+</table>
 
 </div>
+
 
 <div align="center">
 
