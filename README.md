@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" height="180" />
   <h1>Hi 👋, I'm Ravi Ranjan</h1>
-  <p><b>Full Stack Developer</b> • React • Next.js • Node.js</p>
+  <p><b>Full Stack Developer</b></p>
   <img src="https://visitor-badge.laobi.icu/badge?page_id=ravi030801.ravi030801"/>
 </div>
 
